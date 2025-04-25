@@ -1,7 +1,7 @@
 name = "mcp-server-giphy"
-main = "dist/index.js"
+main = "worker.js"
 compatibility_date = "2025-04-25"
-nodejs_compat = true
+compatibility_flags = ["nodejs_compat"]
 
 [vars]
 GIPHY_API_KEY = "AC63EaWN3mbXfP4yteGU0FKMkeVL2Nve"
