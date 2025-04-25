@@ -1,0 +1,6 @@
+name = "mcp-server-giphy"
+main = "dist/index.js"
+compatibility_date = "2025-04-25"
+
+[vars]
+GIPHY_API_KEY = "AC63EaWN3mbXfP4yteGU0FKMkeVL2Nve"
